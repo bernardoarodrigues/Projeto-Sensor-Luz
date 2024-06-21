@@ -16,8 +16,9 @@ Controle de relé (com lâmpada) via sensor ultrassônico, que ativa a lâmpada 
  - **Turma:** BCC-A / 2024 
 
 ## Projeto
- - Assista ao funcionamento do projeto pelo vídeo
+ - Assista ao funcionamento do projeto pelo [vídeo](add link dentro do parêntese)
  - Add imagem
+<img src="./Imagens/Projeto.jpg">
 
 ## Lista de Componentes
 | Quantidade | Componentes        | Valor (R$) |
@@ -25,15 +26,13 @@ Controle de relé (com lâmpada) via sensor ultrassônico, que ativa a lâmpada 
 | 1x | Nome                | R$Preço |
 | **Total** |                 | **R$88,53** |
 
- - Componentes comprados na loja [Ca And Ma](https://www.caandma.com.br/) em São Carlos/SP.
-
 ## Funcionamento dos Componentes
  - **Nome:** funcionamento
 
 ## Simulação do Circuito - TinkerCad
- - Acesse a simulação pelo link
+ - Acesse a simulação pelo [link](add link dentro do parêntese)
  - Ou, no menu `File > Import from Text` do TinkerCad (link), acesse o arquivo `./Arquivos/circuitoFalstad.txt`
- - Add imagem
+<img src="./Imagens/Simulação.jpg">
 
 ## Licença
 Esse projeto está licenciado sobre a GNU General Public License V3.0, publicada pela Free Software Foundation.
