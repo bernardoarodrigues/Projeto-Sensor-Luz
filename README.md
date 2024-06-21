@@ -1,4 +1,4 @@
-# Projeto Sensor Luz
+# Projeto Sensor de Proximidade + Lâmpada
 
 ## Descrição
 Controle de relé (com lâmpada) via sensor ultrassônico, que ativa a lâmpada após detectar objeto até 10cm de distância.
