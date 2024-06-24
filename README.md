@@ -29,8 +29,8 @@ Controle de relé (com lâmpada) via sensor ultrassônico, que ativa a lâmpada 
 | 1x  | Protoboard 400 pontos          | R$11,25  |
 | 12x | Jumpers                        | R$26,82* |
 | **Total** |                 | **R$122,78** |
- - Preços baseados em na loja [Baú da Eletrônica](https://www.baudaeletronica.com.br/)
-Observação: o preço mencionado refere-se a 40 jumpers macho/fêmea (R$ 13,41) e 40 jumpers macho/macho (R$13,41).
+- Preços baseados em na loja [Baú da Eletrônica](https://www.baudaeletronica.com.br/).
+- Observação: o preço mencionado refere-se a 40 jumpers macho/fêmea (R$ 13,41) e 40 jumpers macho/macho (R$13,41).
 
 ## Funcionamento dos Componentes
  - **Sensor ultrassônico:** dispositivo que utiliza ondas sonoras de alta frequência (ultrassons) para detectar a presença, proximidade ou movimento de objetos. Nesse contexto, o sensor possui o objetivo de detectar a proximidade de algum objeto ou corpo. Por meio de cálculos, é possível saber aproximadamente a distância entre o sensor e o elemento percebido espacialmente.
