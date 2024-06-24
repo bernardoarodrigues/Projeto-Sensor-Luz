@@ -17,7 +17,7 @@ Controle de relé (com lâmpada) via sensor ultrassônico, que ativa a lâmpada 
 
 ## Projeto
  - Assista ao funcionamento do projeto pelo [vídeo](add link dentro do parêntese)
- - Add imagem
+
 <img src="./Imagens/Projeto.jpg">
 
 ## Lista de Componentes
@@ -30,9 +30,9 @@ Controle de relé (com lâmpada) via sensor ultrassônico, que ativa a lâmpada 
  - **Nome:** funcionamento
 
 ## Simulação do Circuito - TinkerCad
- - Acesse a simulação pelo [link](add link dentro do parêntese)
- - Ou, no menu `File > Import from Text` do TinkerCad (link), acesse o arquivo `./Arquivos/circuitoFalstad.txt`
-<img src="./Imagens/Simulação.jpg">
+ - Acesse a simulação pelo [link](https://www.tinkercad.com/things/19FjRUZjI8t-surprising-jaiks-amberis/editel?sharecode=7t6YGLirJyuSfUvyjJXeBa_XiOWTuRGZKjtrNH2g5Rg)
+
+<img src="./Imagens/Simulação.png">
 
 ## Licença
 Esse projeto está licenciado sobre a GNU General Public License V3.0, publicada pela Free Software Foundation.
