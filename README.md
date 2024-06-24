@@ -18,7 +18,7 @@ Controle de relé (com lâmpada) via sensor ultrassônico, que ativa a lâmpada 
 ## Projeto
  - Assista ao funcionamento do projeto pelo [vídeo](https://www.youtube.com/watch?v=j-MDr6PDwug)
 
-<img src="./Imagens/Projeto.jpg">
+<img src="./Imagens/lampada.png">
 
 ## Lista de Componentes
 | Quantidade | Componentes             | Valor (R$) |
