@@ -28,8 +28,10 @@ Controle de relé (com lâmpada) via sensor ultrassônico, que ativa a lâmpada 
 | 1x  | Arduino Uno + Cabo USB 2.0     | R$69,21  |
 | 1x  | Protoboard 400 pontos          | R$11,25  |
 | 12x | Jumpers                        | R$26,82* |
-| **Total** |                 | **R$122,78** |
-- Preços baseados em na loja [Baú da Eletrônica](https://www.baudaeletronica.com.br/).
+| 1x  | Lâmpada                        | R$7,01  |
+| **Total** |                 | **R$129,79** |
+- Preço da Lâmpada baseado na loja [Amazon](https://www.amazon.com.br/ref=nav_logo).
+- Preços dos componentes restantes baseados na loja [Baú da Eletrônica](https://www.baudaeletronica.com.br/).
 - Observação: o preço mencionado refere-se a 40 jumpers macho/fêmea (R$ 13,41) e 40 jumpers macho/macho (R$13,41).
 
 ## Funcionamento dos Componentes
