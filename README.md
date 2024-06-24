@@ -16,7 +16,7 @@ Controle de relé (com lâmpada) via sensor ultrassônico, que ativa a lâmpada 
  - **Turma:** BCC-A / 2024 
 
 ## Projeto
- - Assista ao funcionamento do projeto pelo [vídeo](add link dentro do parêntese)
+ - Assista ao funcionamento do projeto pelo [vídeo](https://www.youtube.com/watch?v=j-MDr6PDwug)
 
 <img src="./Imagens/Projeto.jpg">
 
