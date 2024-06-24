@@ -22,7 +22,7 @@ Controle de relé (com lâmpada) via sensor ultrassônico, que ativa a lâmpada 
 
 ## Lista de Componentes
 | Quantidade | Componentes             | Valor (R$) |
-|-----|--------------------------------|
+|-----|------------------------------|-|
 | 1x  | Sensor Ultrassônico HC-SR04    | R$9,20  |
 | 1x  | Relé 5                         | R$6,30  |
 | 1x  | Arduino Uno + Cabo USB 2.0     | R$69,21  |
